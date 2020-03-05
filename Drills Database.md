@@ -14,6 +14,12 @@
 
 ### Breaststroke
 * 2 kick 1 pull
+* Splash drill
+* Pencil point for 2
+* Fist drill
+* BR arms FL legs
+* BR arms FR Legs
+* BR game (lowest stroke count possible)
 
 ### Butterfly
 * 2 kick 1 pull
@@ -23,7 +29,7 @@
 
 
 ### Turns
-* 
+* Chair Turns
 
 ### Dives
 * 
