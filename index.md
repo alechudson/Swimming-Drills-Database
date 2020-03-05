@@ -1,4 +1,7 @@
-# A database of swimming drills
+# A Database of Swimming Drills
+***
+
+## Stroke Drills:
 
 ### Freestyle
 * 6 kick switch
@@ -11,6 +14,7 @@
 
 ### Backstroke
 * 6 kick switch
+* Rhythm drill
 
 ### Breaststroke
 * 2 kick 1 pull
@@ -23,10 +27,17 @@
 
 ### Butterfly
 * 2 kick 1 pull
+* Thumb tip drag
+* Masken
+* Rowboat
+* One arm 
+* Head lead
+
+***
+## Turns, Dives and Other:
 
 ### General Stroke Drills
 * Golf
-
 
 ### Turns
 * Chair Turns
@@ -39,6 +50,7 @@
 * Over unders
 
 ### Fun Stuff & Games
-* Catchup Relay
-* Kickboard Relay 
-* Lightning Relay
+* Catchup relay
+* Kickboard relay 
+* Lightning relay
+* Hot wheels relay
