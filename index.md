@@ -41,9 +41,14 @@
 
 ### Turns
 * Chair Turns
+* Tennessee turns
 
 ### Dives
-* 
+* Sitting
+* Kneeling 
+* Standing 
+* Track start
+* Dive and glide
 
 ### Breakouts
 * Shooters
