@@ -15,6 +15,7 @@
 ### Backstroke
 * 6 kick switch
 * Rhythm drill
+* Aaron Peirsol
 
 ### Breaststroke
 * 2 kick 1 pull
@@ -30,7 +31,7 @@
 * Thumb tip drag
 * Masken
 * Rowboat
-* One arm 
+* One arm
 * Head lead
 
 ***
@@ -45,8 +46,8 @@
 
 ### Dives
 * Sitting
-* Kneeling 
-* Standing 
+* Kneeling
+* Standing
 * Track start
 * Dive and glide
 
@@ -56,6 +57,6 @@
 
 ### Fun Stuff & Games
 * Catchup relay
-* Kickboard relay 
+* Kickboard relay
 * Lightning relay
 * Hot wheels relay
